@@ -3,11 +3,19 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
     
+      <url>
+            <loc>https://answer42.xyz/</loc>
+            <lastmod>2025-04-04T16:01:00+08:00</lastmod>
+          </url>
+    
   
     
       <url>
-            <loc>http://localhost:1313/</loc>
+            <loc>https://answer42.xyz/posts/</loc>
+            <lastmod>2025-04-04T16:01:00+08:00</lastmod>
           </url>
+    
+  
     
   
     
